@@ -1,5 +1,5 @@
 {
-  "name": "hirehub-temp",
+  "name": "hirehub",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@hello-pangea/dnd": "^18.0.1",
+    "bcryptjs": "^3.0.3",
+    "chart.js": "^4.5.1",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.576.0",
+    "mongoose": "^9.2.3",
     "next": "16.1.6",
+    "next-auth": "^4.24.13",
     "react": "19.2.3",
+    "react-chartjs-2": "^5.3.1",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
