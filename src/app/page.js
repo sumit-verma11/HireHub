@@ -221,7 +221,7 @@ export default function LandingPage() {
 
       {/* Footer */}
       <footer className="relative z-10 border-t border-[var(--border-color)] px-6 py-10 text-center text-sm text-[var(--muted)]">
-        <p>© 2024 HireHub. Built with Next.js, MongoDB & Tailwind CSS.</p>
+        <p>© 2026 HireHub. Built with Next.js, MongoDB & Tailwind CSS.</p>
       </footer>
     </div>
   );
